@@ -79,7 +79,26 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the
+4. ![WhatsApp Image 2024-04-22 at 13 36 17_6776e8e2](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/1319c0ff-a44e-428c-80df-6a4f8cdc42a1)
+5. ![WhatsApp Image 2024-04-22 at 13 36 18_e9160f18](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/eb82c780-0fc5-4a04-800e-249b9177176d)
+6.![WhatsApp Image 2024-04-22 at 13 36 18_cb69a908](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/69caa19b-4b8e-4ec3-9f9a-a7d9a6c4efc0)
+7.![WhatsApp Image 2024-04-22 at 13 36 19_2eadbfc7](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/3b259b77-3d5f-4051-8cdb-adf5d617efdb)
+9.![WhatsApp Image 2024-04-22 at 13 36 19_4ac11db0](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/f1e9dac5-b901-47d3-b219-f86a0c141d7a)
+10.![WhatsApp Image 2024-04-22 at 13 36 20_3d1c17d7](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/4869532d-f32e-4083-958f-79504e407ba5)
+11.![WhatsApp Image 2024-04-22 at 13 36 20_3979c87a](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/54a8e48d-4a62-4a71-93b0-81b870b3979f)
+12.![WhatsApp Image 2024-04-22 at 13 36 20_54aeed1c](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/cf7252bd-b8c0-4942-bd26-3c96cb953cd9)
+13.![WhatsApp Image 2024-04-22 at 13 36 21_42a5b14f](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/19ab19fd-65bd-4ed1-8b1a-9a75cbd574ba)
+14.![WhatsApp Image 2024-04-22 at 13 36 22_c3879719](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/f2bb5c6d-bf41-40b7-ba6a-bfb54d011c26)
+15.![WhatsApp Image 2024-04-22 at 13 36 22_e17ca1a5](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/9a40efc2-953c-4c06-bd42-b653435b38f5)
+16.![WhatsApp Image 2024-04-22 at 13 36 23_d8c3109c](https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/2e5da1ff-02b8-41ba-b206-c15ef897171f)
+   
+ 
+
+
+
+
+
 
 
 
@@ -104,10 +123,14 @@ and click on the connect icon
 
 
 
+https://github.com/Sandhniya/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151395890/4767f9a9-1291-4e17-8dbc-0c6b7c2068e8
+
+
+
 
 
 ### Results: 
-
+The experiment to pick and place a regular shape using two finger gripper on the conveyor belt has been verified
 
 
 
